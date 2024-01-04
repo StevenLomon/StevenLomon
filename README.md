@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Final Year Data Science and AI Student
 --------------------------------------
 
-* 🌍  I'm based in Västerås
+* 🌍  I'm based in Sweden
 * ✉️  You can contact me at [steven.lennartsson@gmail.com](mailto:steven.lennartsson@gmail.com)
 * 🧠  I'm currently brushing up on Data Structures and Algorithms at ZTM :)
 

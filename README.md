@@ -6,7 +6,7 @@ Final Year Data Science and AI Student
 
 * 🌍  I'm based in Västerås
 * ✉️  You can contact me at [steven.lennartsson@gmail.com](mailto:steven.lennartsson@gmail.com)
-* 🧠  I'm learning Data Structures and Algorithms at ZTM :)
+* 🧠  I'm currently brushing up on Data Structures and Algorithms at ZTM :)
 
 ### Skills
 

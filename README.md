@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Steven Lomon Lennartsson
 ================================================================================================================================================
 
-Final year Python developer student, aspiring Data Engineer and Data Scraping enthusiast :)
+Final year Python developer student, aspiring Data Engineer and Data Scraping enthusiast :))
 --------------------------------------
 
 * 🌍  I'm based in Sweden
 * ✉️  You can contact me at [steven.lennartsson@gmail.com](mailto:steven.lennartsson@gmail.com)
-* 🧠  I'm currently brushing up on Data Structures and Algorithms at ZTM :)
+* 🧠  Currently learning about Data Engineering through IBM's course on Coursera while building cool data scraping apps and trying to get into freelancing
 
 ### Skills
 

@@ -6,8 +6,8 @@ Newly-certified Cloud Practitioner | Aspiring Data Engineer | Polytechnic and CS
 
 * 🌍  I'm based in Sweden
 * ✉️  You can connect with me at [LinkedIn](www.linkedin.com/in/stevenlomon) or contact me at [steven.lennartsson@gmail.com](mailto:steven.lennartsson@gmail.com)
-* 🧠  Currently applying for Data Engineering jobs while building projects on the side! See my pinned projects down below! 
 * 🎯  The current plan now is to slowly transition as I’m working as a Data Engineer to a Cloud Engineer with the long-term vision of becoming an AWS Solutions Architect! ☁️
+* 🚀  My latest project that I deployed is a web app that lets you detect rubber ducks in images! Try it out [here](http://istherearubberduckinthisimage.se)
 
 ### Skills
 
@@ -19,4 +19,4 @@ Newly-certified Cloud Practitioner | Aspiring Data Engineer | Polytechnic and CS
 
 <p align="left"> <a href="https://www.linkedin.com/in/stevenlomon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-README created using [profileMe.dev!](https://www.profileme.dev/) 🚀
+README created using [profileMe.dev!](https://www.profileme.dev/) 🌱

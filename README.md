@@ -6,8 +6,9 @@ Newly-certified Cloud Practitioner | Aspiring Data Engineer | Polytechnic and CS
 
 * 🌍  I'm based in Sweden
 * ✉️  You can connect with me at [LinkedIn](www.linkedin.com/in/stevenlomon) or contact me at [steven.lennartsson@gmail.com](mailto:steven.lennartsson@gmail.com)
-* 🎯  The current plan now is to slowly transition as I’m working as a Data Engineer to a Cloud Engineer with the long-term vision of becoming an AWS Solutions Architect! ☁️
 * 🚀  My latest project that I deployed is a web app that lets you detect rubber ducks in images! 🦆 Try it out [here](http://istherearubberduckinthisimage.se)
+* 🎯  The current plan now is to slowly transition as I’m working as a Data Engineer to a Cloud Engineer with the long-term vision of becoming an AWS Solutions Architect! ☁️
+
 
 ### Skills
 

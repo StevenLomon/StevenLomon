@@ -6,7 +6,7 @@ Newly-certified Cloud Practitioner | Aspiring Data Engineer | Polytechnic and CS
 
 * 🌍  I'm based in Sweden
 * ✉️  You can connect with me at [LinkedIn](www.linkedin.com/in/stevenlomon) or contact me at [steven.lennartsson@gmail.com](mailto:steven.lennartsson@gmail.com)
-* 🧠  Currently applying for Data Engineering jobs while building projects on the side! Current project: 
+* 🧠  Currently applying for Data Engineering jobs while building projects on the side! See my pinned projects down below! 
 * 🎯  The current plan now is to slowly transition as I’m working as a Data Engineer to a Cloud Engineer with the long-term vision of becoming an AWS Solutions Architect! ☁️
 
 ### Skills

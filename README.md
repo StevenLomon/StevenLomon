@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Newly-certified Cloud Practitioner | Aspiring Data Engineer | Polytechnic and CS50 Graduate :))
 --------------------------------------
 
-* 🌍  I'm based in Sweden
+* 🌍  I'm based in Sweden but I'm way more confident speaking English and don't see myself as a Swede at all haha
 * ✉️  You can connect with me at [LinkedIn](www.linkedin.com/in/stevenlomon) or contact me at [steven.lennartsson@gmail.com](mailto:steven.lennartsson@gmail.com)
 * 🚀  My latest project that I deployed is a web app that lets you detect rubber ducks in images! 🦆 Try it out [here](http://istherearubberduckinthisimage.se)
 * 🎯  The current plan now is to slowly transition as I’m working as a Data Engineer to a Cloud Engineer with the long-term vision of becoming an AWS Solutions Architect! ☁️

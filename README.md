@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Steven Lomon Lennartsson
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Steven Lomon Lennartsson :))
 ================================================================================================================================================
 
-Newly-certified Cloud Practitioner | Aspiring Data Engineer | Polytechnic and CS50 Graduate :))
+Newly-certified Cloud Practitioner | Aspiring Data Engineer | Polytechnic and CS50 Graduate
 --------------------------------------
 
 * 🌍  I'm based in Sweden but I'm way more confident speaking English and don't see myself as a Swede at all haha

@@ -6,8 +6,7 @@ Newly-certified Cloud Practitioner | Aspiring Data Engineer | Polytechnic and CS
 
 * 🌍  I'm based in Sweden but I'm way more confident speaking English and don't see myself as a Swede at all haha
 * ✉️  You can connect with me at [LinkedIn](www.linkedin.com/in/stevenlomon) or contact me at [steven.lennartsson@gmail.com](mailto:steven.lennartsson@gmail.com)
-* 🚀  My latest project that I deployed is a web app that lets you detect rubber ducks in images! 🦆 Try it out [here](http://istherearubberduckinthisimage.se)
-* 🧠  Currently learning about Spark and BigQuery, both the theory and inner workings of it and practically through [this project](https://github.com/StevenLomon/stock-market-big-data-project-spark-bigquery). Also doing my best to start automating as much as the project lifecycle as much with GitHub Actions and Terraform
+* 🧠  Currently learning about Spark and BigQuery, both the theory and inner workings of it and practically through [this project](https://github.com/StevenLomon/stock-market-big-data-project-spark-bigquery). Also doing my best to start automating as much as the project lifecycle as much with GitHub Actions and Terraform. Also diving deep into mastering SQL where I track my progress [here](https://github.com/StevenLomon/sql-road-to-mastery)
 
 
 ### Skills and Stack

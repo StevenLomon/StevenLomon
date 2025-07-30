@@ -1,12 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Steven Lomon Lennartsson :))
+Hi, I'm Steven Lomon
 ================================================================================================================================================
 
-Newly-certified Cloud Practitioner | Aspiring Data Engineer | Polytechnic and CS50 Graduate
+API Developer & SaaS Builder | Creating a product that transform how people achieve their goals
 --------------------------------------
 
-* 🌍  I'm based in Sweden but I'm way more confident speaking English and don't see myself as a Swede at all haha
-* ✉️  You can connect with me at [LinkedIn](www.linkedin.com/in/stevenlomon) or contact me at [steven.lennartsson@gmail.com](mailto:steven.lennartsson@gmail.com)
-* 🧠  Currently learning about Spark and BigQuery, both the theory and inner workings of it and practically through [this project](https://github.com/StevenLomon/stock-market-big-data-project-spark-bigquery). Also doing my best to start automating as much as the project lifecycle as much with GitHub Actions and Terraform. Also diving deep into mastering SQL where I track my progress [here](https://github.com/StevenLomon/sql-road-to-mastery)
+* 🌍  Based in Sweden, building for the global market
+* ✉️  [steven.lennartsson@gmail.com](mailto:steven.lennartsson@gmail.com) | Let's build something together
+* 💼 Available for custom API development & business automation projects
+
+**Recent Work**
+
+🎯 Meta CAPI Proxy API - Production-ready marketing automation serving clients globally
+🔗 E-commerce Integration Systems - Custom business process automation (GHL → WMS)
 
 
 ### Skills and Stack

@@ -10,9 +10,8 @@ API Developer & SaaS Builder | Creating a product that transform how people achi
 
 **Recent Work**
 
-🎯 Meta CAPI Proxy API - Production-ready marketing automation serving clients globally
-
-🔗 E-commerce Integration Systems - Custom business process automation (GHL → WMS)
+* 🎯 [Meta CAPI Proxy API](https://rapidapi.com/studio/api_60948473-604c-406b-9489-5dabfcb741d2/publish/general) - Production-ready marketing automation serving clients globally
+* 🔗 E-commerce Integration Systems - Custom business process automation (PSF → WMS)
 
 
 ### Tech Stack

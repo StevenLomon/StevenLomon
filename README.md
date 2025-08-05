@@ -1,4 +1,4 @@
-Steven Lomon | Enterprise Integration Architect
+# Steven Lomon | Enterprise Integration Architect
 🚀 Currently developing AI-powered SaaS combining behavioral psychology with gamification
 
 I solve complex business problems that save companies thousands of hours and millions in operational costs.

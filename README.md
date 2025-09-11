@@ -33,4 +33,4 @@ Automated webhook system connecting sales platforms to fulfillment
 
 🌍 Sweden-based, solving global business challenges 
 💼 [Available for freelancing](https://www.upwork.com/freelancers/~013d2c74fe1ea31b2f?viewMode=1)  
-📫 steven@cleanconversion.com 
+📧 steven@cleanconversion.com 

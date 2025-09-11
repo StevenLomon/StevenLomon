@@ -16,7 +16,7 @@ AI-powered behavioral transformational platform
 
 **Meta CAPI Event Connector**
 Production-ready FastAPI proxy for secure server-side event tracking
-* [Meta CAPI Event Connector](https://rapidapi.com/StevenLomon/api/meta-capi-event-connector) Live on RapidAPI marketplace
+* [Live on RapidAPI marketplace](https://rapidapi.com/StevenLomon/api/meta-capi-event-connector) 
 * Handles PII security, data validation, and payload formatting
 * Eliminates weeks of CAPI implementation complexity
 
@@ -31,6 +31,6 @@ Automated webhook system connecting sales platforms to fulfillment
 **Specializations:** API integrations, Real-time automation, AI implementation, Marketing technology
 **Certifications:** AWS Certified Cloud Practitioner
 
-🌍 Sweden-based, solving global business challenges
-💼 [Upwork](https://www.upwork.com/freelancers/~013d2c74fe1ea31b2f?viewMode=1) Available for freelancing
-📫 steven@cleanconversion.com
+🌍 Sweden-based, solving global business challenges 
+💼 [Available for freelancing](https://www.upwork.com/freelancers/~013d2c74fe1ea31b2f?viewMode=1)  
+📫 steven@cleanconversion.com 

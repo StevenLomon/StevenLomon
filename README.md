@@ -31,6 +31,6 @@ Automated webhook system connecting sales platforms to fulfillment
 **Specializations:** API integrations, Real-time automation, AI implementation, Marketing technology
 **Certifications:** AWS Certified Cloud Practitioner
 
-🌍 Sweden-based, solving global business challenges 
+🌍 Sweden-based, solving global business challenges  
 💼 [Available for freelancing](https://www.upwork.com/freelancers/~013d2c74fe1ea31b2f?viewMode=1)  
 📧 steven@cleanconversion.com 
